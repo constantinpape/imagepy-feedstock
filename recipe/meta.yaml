@@ -1,7 +1,7 @@
 {% set name = "imagepy" %}
-{% set version = "0.17" %}
+{% set version = "0.18" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "ba64ea5e546d8df1073b33e33fc46587f6cb19b5b9a2786653f484ca12ef6f04" %}
+{% set hash_value = "2efbd64076c7c21e9a8f77621827736a3666189c4b4433553d685494f4e04974" %}
 
 package:
   name: '{{ name|lower }}'
